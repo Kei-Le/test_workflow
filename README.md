@@ -8,3 +8,4 @@ The last interesting feature has been added. (C commit)
 Remote computer
 Commit X
 Commit Y
+Commit Z
